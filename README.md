@@ -1,6 +1,6 @@
 # GLOWING BEAUTY WEBSITE
 
-# Live Demo: [here](https://mahn-bonnie.github.io/ladies-skinglow.github.io/)
+## Live Demo: [here](https://mahn-bonnie.github.io/ladies-skinglow.github.io/)
 
 # Description 
 
